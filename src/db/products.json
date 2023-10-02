@@ -1,0 +1,149 @@
+[
+	{
+		"title": "producto prueba",
+		"description": "Este es un producto prueba",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "abc123",
+		"stock": 1,
+		"id": 1
+	},
+	{
+		"title": "jeans modificados",
+		"description": "ropa de hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc124",
+		"stock": 50,
+		"id": 2
+	},
+	{
+		"title": "blusa",
+		"description": "ropa de mujer",
+		"price": 599,
+		"thumbnail": "sin imagen",
+		"code": "abc125",
+		"stock": 12,
+		"id": 3
+	},
+	{
+		"title": "vestido",
+		"description": "ropa de niña",
+		"price": 599,
+		"thumbnail": "sin imagen",
+		"code": "abc126",
+		"stock": 12,
+		"id": 4
+	},
+	{
+		"title": "playera",
+		"description": "ropa de hombre",
+		"price": 399,
+		"thumbnail": "sin imagen",
+		"code": "abc200",
+		"stock": 22,
+		"id": 5
+	},
+	{
+		"title": "zapatos",
+		"description": "calzado hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc128",
+		"stock": 15,
+		"id": 6
+	},
+	{
+		"title": "tennis",
+		"description": "calzado mujer",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc129",
+		"stock": 20,
+		"id": 7
+	},
+	{
+		"title": "sudadera",
+		"description": "ropa de mujer",
+		"price": 899,
+		"thumbnail": "sin imagen",
+		"code": "abc130",
+		"stock": 8,
+		"id": 8
+	},
+	{
+		"title": "jeans",
+		"description": "ropa de hombre",
+		"price": 799,
+		"thumbnail": "sin imagen",
+		"code": "abc131",
+		"stock": 13,
+		"id": 9
+	},
+	{
+		"title": "shirt",
+		"description": "ropa de mujer",
+		"code": "abc141",
+		"price": 799,
+		"status": true,
+		"stock": 12,
+		"category": "Shirt",
+		"thumbnail": "",
+		"id": 10
+	},
+	{
+		"title": "scarf",
+		"description": "ropa de mujer",
+		"code": "abc142",
+		"price": 599,
+		"status": true,
+		"stock": 12,
+		"category": "accesorios",
+		"thumbnail": [],
+		"id": 11
+	},
+	{
+		"title": "tenis",
+		"description": "ropa de mujer",
+		"code": "abc148",
+		"price": 599,
+		"status": true,
+		"stock": 12,
+		"category": "accesorios",
+		"thumbnail": [],
+		"id": 12
+	},
+	{
+		"title": "Pants básico verde",
+		"description": "Ropa Hombre",
+		"code": "H1250",
+		"price": 799,
+		"status": true,
+		"stock": 40,
+		"category": "Ropa de Hombre",
+		"thumbnail": [],
+		"id": 13
+	},
+	{
+		"title": "Pants básico green",
+		"description": "Pants básico color verde",
+		"code": "H1251",
+		"price": 799,
+		"status": true,
+		"stock": 40,
+		"category": "Ropa de Hombre",
+		"thumbnail": [],
+		"id": 14
+	},
+	{
+		"title": "Pants básico verde",
+		"description": "Pants básico color verde",
+		"code": "H1252",
+		"price": 799,
+		"status": true,
+		"stock": 40,
+		"category": "Ropa de Hombre",
+		"thumbnail": [],
+		"id": 15
+	}
+]
